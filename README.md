@@ -10,7 +10,7 @@ To play the game, go to "Executables for Downloading", download it, and play! En
 
 ---
 Gameplay Pictures:
-![GP1](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/gameplay1.jpg)
+![NewGame](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/new.jpg)
 
 ---
 ---
@@ -30,12 +30,12 @@ Gameplay Pictures:
 ---
 ---
 
-![NewGame](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/new.jpg)
+![GP1](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/gameplay1.jpg)
 
 ---
 ---
 
-![instructions](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/instructions.jpg)
+![instructions](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/instruction.jpg)
 
 ---
 
