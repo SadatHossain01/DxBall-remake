@@ -25,11 +25,11 @@ To play the game, go to "Executables for Downloading", download it, and play! Ye
 ---
 
 ## Supported Features
-* [x] Close recreation of original game physics
-* [x] Contains background music and in-game sounds (Music Credits: **DxBall2**)
-* [x] Saving & loading game progress
-* [x] Pausing the game at any time
-* [x] Original game powerups
-* [x] Leaderboard
-* [x] Keyboard shortcuts for different purposes
-* [ ] Multiple levels
+* Close recreation of original game physics
+* Contains background music and in-game sounds (Music Credits: **DxBall2**)
+* Saving & loading game progress
+* Pausing the game at any time
+* Original game powerups
+* Leaderboard
+* Keyboard shortcuts for different purposes
+* Multiple levels
