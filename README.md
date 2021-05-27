@@ -32,4 +32,3 @@ To play the game, go to "Executables for Downloading", download it, and play! Ye
 * Original game powerups
 * Leaderboard
 * Keyboard shortcuts for different purposes
-* Multiple levels
