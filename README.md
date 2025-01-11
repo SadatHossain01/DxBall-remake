@@ -12,14 +12,13 @@ To play the game, go to "Executables for Downloading", download it, and play! Ye
 
 ## Gameplay Pictures
 
-![Start](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/main-menu.jpg)
-![NewGame](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/new.jpg)
-![instructions](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/instruction.jpg)
-![GP1](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/gameplay1.jpg)
-![GP2](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/gp2.jpg)
-![Name](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/name.jpg)
-![HS](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/hs.jpg)
-![Credits](https://github.com/Sadat-Hossain-01/DxBall-remake/blob/main/Source%20Code/Background%20Photos/JPEG/game_credits.jpg)
+![Start](assets/JPEG/main-menu.jpg)
+![New Game](assets/JPEG/new.jpg)
+![Instructions](assets/JPEG/instruction.jpg)
+![Game Play](assets/JPEG/gp2.jpg)
+![Name Entry](assets/JPEG/name.jpg)
+![High Score](assets/JPEG/hs.jpg)
+![Credits](assets/JPEG/game_credits.jpg)
 
 ---
 ---
